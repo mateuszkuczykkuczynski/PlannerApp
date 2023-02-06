@@ -1,1 +1,1 @@
-# PlannerApp
+Basic Planner App build with Python that allow a user to add things that need to be done. Planner App can store everything in a additional file so after exiting the program and reopening it, app will still store all the values saved before. 
