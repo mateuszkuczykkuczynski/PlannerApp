@@ -1,1 +1,2 @@
 Basic Planner App build with Python that allow a user to add things that need to be done. Planner App can store everything in a additional file so after exiting the program and reopening it, app will still store all the values saved before. 
+This repository, like all others on my GitHub, will undergo a refactoring process as a fun task in my free time. This exercise allows me to assess my knowledge after gaining over a year of professional experience.
